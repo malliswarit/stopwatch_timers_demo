@@ -26,8 +26,7 @@ class App extends Component {
   render() {
     return (
       <div className="App" style={{  
-        backgroundImage: `url(${aws})`,
-        backgroundPosition: 'center',
+        backgroundImage: `url(${aws})`,       
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat'
       }}>
